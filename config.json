@@ -1,4 +1,4 @@
 {
-  "minRequiredVersion": "1.0.1",
-  "maintenance": false
+  "minRequiredVersion": "1.0.0",
+  "maintenance": true
 }
